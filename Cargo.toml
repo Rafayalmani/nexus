@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "crates/sync-engine",
+    "crates/crypto",
+    "crates/networking",
+    "crates/filesystem",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+author = "Nexus Team"
+license = "MIT"
